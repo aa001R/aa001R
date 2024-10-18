@@ -16,7 +16,15 @@ Here are some ideas to get you started:
 -->
 <!-- header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC796,100:FF6B95&text=Kim%20Areum&fontColor=FFFFFF&fontSize=60&height=150&width=100%&section=header&fontAlignY=40" width=100%/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC796,100:FF6B95&text=Kim%20Areum&fontColor=FFFFFF&fontSize=60&height=150&section=header&fontAlignY=40" width=100% />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E57373,100:FF8C9F&text=Kim%20Areum&fontColor=FFFFFF&fontSize=60&height=150&section=header&fontAlignY=40">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC796,100:FF6B95&text=Kim%20Areum&fontColor=FFFFFF&fontSize=60&height=150&section=header&fontAlignY=40" width=100%>
+ </picture>
+
+
+
 
 <!-- 소개문 -->
 <div align="center">
