@@ -14,20 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <!-- header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC796,100:FF6B95&text=Kim%20Areum&fontColor=FFFFFF&fontSize=60&height=150&section=header&fontAlignY=40" width=100% />
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E57373,100:FF8C9F&text=Kim%20Areum&fontColor=FFFFFF&fontSize=60&height=150&section=header&fontAlignY=40">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC796,100:FF6B95&text=Kim%20Areum&fontColor=FFFFFF&fontSize=60&height=150&section=header&fontAlignY=40" width=100%>
- </picture>
-
-
-
-
+  
 <!-- 소개문 -->
-<div align="center">
   <h2>✨Introduce✨</h2>
   <p>도움이 되는 개발자가 되기 위해,<br>매일 조금씩 성장하고 있는 김아름입니다.😄</p>
   <br>
