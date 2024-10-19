@@ -25,7 +25,6 @@ Here are some ideas to get you started:
   
   [![Send Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:areumk163@gmail.com)
 
-  <br>
   <!-- 기술 -->
   <h2>🖥️Tech Stack🖥️</h2>
   <div>
@@ -78,7 +77,6 @@ Here are some ideas to get you started:
   
   <br>
   <br>
-  <br>
   <!-- 백준 티어 및 스트릭 -->
   <h2>🗂️Solved.ac🗂️</h2>
   
@@ -89,7 +87,6 @@ Here are some ideas to get you started:
   </a>
   <img src="http://mazandi.herokuapp.com/api?handle=kkkacmic&theme=cold" width="45%"/>
 
-  <br>
   <br>
   <br>
   <!-- 깃허브 state -->
