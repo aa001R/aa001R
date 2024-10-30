@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <div>
     <h3>⚙️Backend</h3>
     <!-- springboot, java, c/c++, python, Djongo -->
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
     <br>
     <img src="https://img.shields.io/badge/Java-FFA500?style=flat-square&logo=openjdk&logoColor=white"/>
