@@ -97,10 +97,12 @@ Here are some ideas to get you started:
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aa001R&layout=compact&show_icons=true&theme=react&hide_border=true&bg_color=20232a&icon_color=64D8CB&text_color=fff&title_color=64D8CB&count_private=true&custom_title=My%20Language%20⌨️" width=44% />
   </a>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<!--   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=aa001R&theme=react-dark&bg_color=20232a&hide_border=true&line=64D8CB&color=64D8CB&area_color=FFFFFF&area=true&radius=8" width=93%/>
-  </a>
-  <img src="https://github-profile-trophy.vercel.app/?username=aa001R" width=93%/>
+  </a> -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aa001R&theme=flat&row=1" width="93%"/>
+</div>
 
   <br>
   <br>
