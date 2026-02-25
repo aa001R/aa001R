@@ -15,9 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC796,100:FF6B95&text=Kim%20Areum&fontColor=FFFFFF&fontSize=60&height=150&section=header&fontAlignY=40" width=100% />
+<!-- header -->
+  <picture>
+    <!-- 다크모드용 : #8254EE (퍼플) #00D1FF (스카이블루) 조합 -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:8254EE&text=Kim%20Areum&fontColor=E0E0E0&fontSize=60&height=150&section=header&fontAlignY=40" width=100% />
+    <!-- 그 외 모드 : #FFC796 (소프트피치) #FF6B95 (로즈핑크) 조합 -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC796,100:FF6B95&text=Kim%20Areum&fontColor=FFF9F5&fontSize=60&height=150&section=header&fontAlignY=40" width=100% />
+  </picture>
   
 <!-- 소개문 -->
   <h2>✨Introduce✨</h2>
