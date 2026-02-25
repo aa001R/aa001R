@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <!-- header -->
   <picture>
     <!-- 다크모드용 : #8254EE (퍼플) #00D1FF (스카이블루) 조합 -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF,100:8254EE&text=Kim%20Areum&fontColor=E0E0E0&fontSize=60&height=150&section=header&fontAlignY=40" width=100% />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00D1FF%2C100:8254EE&text=Kim%20Areum&fontColor=E0E0E0&fontSize=60&height=150&section=header&fontAlignY=40" width=100% />
     <!-- 그 외 모드 : #FFC796 (소프트피치) #FF6B95 (로즈핑크) 조합 -->
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC796,100:FF6B95&text=Kim%20Areum&fontColor=FFF9F5&fontSize=60&height=150&section=header&fontAlignY=40" width=100% />
   </picture>
-  
+
 <!-- 소개문 -->
   <h2>✨Introduce✨</h2>
   <p>도움이 되는 개발자가 되기 위해,<br>매일 조금씩 성장하고 있는 김아름입니다.😄</p>
@@ -96,23 +96,22 @@ Here are some ideas to get you started:
   <br>
   <!-- 깃허브 state -->
   <h2>🌱Github Stats🌱</h2>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=aa001R&theme=react&bg_color=20232a&icon_color=64D8CB&text_color=fff&title_color=64D8CB&hide_border=true&show_icons=true&count_private=true&include_all_commits=false" width=49% />
+  <a href="https://github-stats-extended.vercel.app">
+    <img src="https://github-stats-extended.vercel.app/api?username=aa001R&theme=react&bg_color=20232a&icon_color=64D8CB&text_color=fff&title_color=64D8CB&hide_border=true&show_icons=true&count_private=true&include_all_commits=false" width=49% />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aa001R&layout=compact&show_icons=true&theme=react&hide_border=true&bg_color=20232a&icon_color=64D8CB&text_color=fff&title_color=64D8CB&count_private=true&custom_title=My%20Language%20⌨️" width=44% />
+  <a href="https://github-stats-extended.vercel.app">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aa001R&layout=compact&show_icons=true&theme=react&hide_border=true&bg_color=20232a&icon_color=64D8CB&text_color=fff&title_color=64D8CB&count_private=true&custom_title=My%20Language%20⌨️" width=44% />
   </a>
-<!--   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aa001R&theme=react-dark&bg_color=20232a&hide_border=true&line=64D8CB&color=64D8CB&area_color=FFFFFF&area=true&radius=8" width=93%/>
-  </a> -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aa001R&theme=flat&row=1" width="93%"/>
-</div>
-
+  
   <br>
   <br>
   <!-- 프로젝트 -->
 
   <!-- footer -->
+  <picture>
+    <!-- 다크모드용 : #8254EE (퍼플) #00D1FF (스카이블루) 조합 -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8254EE%2C100:00D1FF&height=150&section=footer" width=100%/>
+    <!-- 그 외 모드 : #FFC796 (소프트피치) #FF6B95 (로즈핑크) 조합 -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B95,100:FFC796&height=150&section=footer" width=100%/>
+  </picture>
 </div>
