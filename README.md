@@ -24,6 +24,8 @@ Here are some ideas to get you started:
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC796,100:FF6B95&text=Kim%20Areum&fontColor=FFF9F5&fontSize=60&height=150&section=header&fontAlignY=40" width=100% />
   </picture>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=test&fontColor=FFF9F5&fontSize=60&height=150&section=header&fontAlignY=40#gh-dark-mode-only" width=100% />
+
 <!-- 소개문 -->
   <h2>✨Introduce✨</h2>
   <p>도움이 되는 개발자가 되기 위해,<br>매일 조금씩 성장하고 있는 김아름입니다.😄</p>
