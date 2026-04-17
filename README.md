@@ -82,18 +82,6 @@ Here are some ideas to get you started:
   
   <br>
   <br>
-  <!-- 백준 티어 및 스트릭 -->
-  <h2>🗂️Solved.ac🗂️</h2>
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=kkkacmic)](https://solved.ac/kkkacmic)
-  
-  <a href="https://solved.ac/profile/kkkacmic">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kkkacmic" alt="Solved.ac Profile" width="45%" />
-  </a>
-  <img src="http://mazandi.herokuapp.com/api?handle=kkkacmic&theme=cold" width="45%"/>
-
-  <br>
-  <br>
   <!-- 깃허브 state -->
   <h2>🌱Github Stats🌱</h2>
   <a href="https://github-stats-extended.vercel.app">
